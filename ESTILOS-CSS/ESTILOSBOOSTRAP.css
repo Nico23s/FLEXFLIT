@@ -1,0 +1,11 @@
+/*CONTENEDOR DEL TEXTO PRINCIPAL DE CADA PAGINA DE PRODUCTOS*/
+.contenedor{background-color: hsla(0, 0%, 100%, 0);height: auto;}
+
+
+/*CONTENEDORES DE LAS IMAGENES Y LOS TEXTOS DE CADA UNO DE LOS PRODUCTOS*/
+.contenedorProd{float: left;margin: 50px;}
+nav{margin-top: 0px;}
+
+/*TAMAÑO DE LETRA PARA LAS PÁGINAS CON BOOSTRAP*/
+.texti{margin-top: 10px;}
+.contactos{font-size:12px; margin-top:5px}
